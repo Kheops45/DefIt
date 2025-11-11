@@ -1,0 +1,5 @@
+{
+  "name": "DefIT",
+  "description": "Un jeu en ligne ludique pour aider les enfants à s'exercer à Python et HTML/CSS à travers des défis interactifs, avec des niveaux, un suivi des progrès et des récompenses.",
+  "requestFramePermissions": []
+}
